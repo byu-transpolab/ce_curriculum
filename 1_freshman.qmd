@@ -1,0 +1,46 @@
+# Freshman Year
+The learning outcomes for this year are for students to: 
+
+  1. Feel belonging as a student in our discipline, regardless of their personal background and future career goals.  
+  2. Describe how designing and constructing civil infrastructure benefits society and how the tools of our disciplines can solve challenges to humanity. 
+  3. Apply mathematics and basic physics to solve basic problems related to optimization and forces on static bodies. 
+  4. Obtain meaningful business and engineering skills that could be useful in part-time research or internships. 
+
+## CCE 101: Sustainable Infrastructure 
+::: {.callout-note}
+## Proposed Change
+Create a new CCE 101 (3 credit hours) by combining learning objectives from CCE 101 (1), CCE 201 (2), and CCE 231 (3)
+:::
+
+The existing CCE 101 course is designed to *tell* students about the different employment and study paths available to them as civil engineers and construction managers. We desire to make this a class that *shows* how designing and building civil infrastructure benefits society through interactive case studies and a lens of sustainability. Proposed learning outcomes include: 
+
+  1. Describe how civil infrastructure and the built environment can foster (or inhibit) a sustainable society, including efforts to achieve United Nations Sustainable Development Goals. 
+  2. Apply the principle of time value of money to identify financially sustainable infrastructure investment decisions. 
+  3. Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts. ([ABET Student Outcome 4](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/#GC3))
+  4. Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. ([ABET Student Outcome 5](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/#GC3))
+
+We intend that this course will qualify for the Global and Cultural Awareness University Core requirement, or as an Explorations: Science and Technology in the proposed GE.  
+
+## CCE 117 / 118 Engineering Software and Measurements 
+::: {.callout-note}
+## Proposed Change
+Proposed Change: Create a set of new courses introducing students to engineering software and measurements. Eliminate CCE 112 (3 credit hours) and CCE 214 (2 credit hours)
+:::
+
+The list of practical skills that engineering students need is always expanding, with new software replacing formerly essential tools (the shift from manual drafting to CAD) or creating new ones (GIS). Rather than adding and shifting course requirements as tools become available – and retaining legacy classes that have been superseded – we propose a two-course series where individual sections focus on different software and measurement techniques. 
+
+CCE 117 is proposed as a two-credit hour software class. We anticipate a section focused on GIS and another on CAD, but others may be possible. Specific learning outcomes will vary by software, but all sections will require that students will: 
+
+  1. Understand and explain software licensing models and how to install software. 
+  2. Download technical files from web-based repositories, store the files onto local and shared computing networks, and open files in commercial engineering software. 
+  3. Obtain useful guidance from software documentation and online help forums, including generative AI as appropriate. 
+  4. Produce a visualization supporting an engineering design or analysis. 
+
+CCE 118 is proposed as a one-credit hour engineering measurements class. We anticipate potential sections on surveying, remote sensing, water quality measurements, and piezoelectric sensors. The proposed learning outcomes for all sections are that students will: 
+
+  1. Describe the purpose of data collection in engineering projects. 
+  2. Describe the challenge of measurement accuracy and tolerance. 
+  3. Use modern techniques to record, store, and disseminate engineering data. 
+  4. Construct basic visualizations of engineering data. 
+
+We recognize that many construction management students are likely to derive more benefit from BIM than GIS. If the construction management program elects to retain its three-credit hour CCE 113 BIM class, we would allow CE students to take that class as a substitute for CCE 117. 

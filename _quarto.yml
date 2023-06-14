@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Civil Engineering Curriculum"
+  subtitle: "A redesign proposal"
+  author: "Undergraduate Curriculum Committee"
+  date: "6/14/2023"
+  chapters:
+    - index.qmd
+    - 1_freshman.qmd
+    - 2_sophomore.qmd
+    - 3_junior.qmd
+    - 4_senior.qmd
+    - 5_studentstories.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

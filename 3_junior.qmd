@@ -1,0 +1,61 @@
+# Junior Year
+The learning outcomes for this year are for students to: 
+
+  1. Obtain a broad exposure to multiple disciplines of civil engineering. 
+  1. Prepare for technical and design electives, as well as a Capstone experience. 
+
+## CE Breadth Core {#sec-breadth}
+::: {.callout-note}
+## Proposed Change
+Require students to complete four of six discipline area classes, instead of all six courses. 
+:::
+
+
+## Social Science Elective
+::: {.callout-note}
+## Proposed Change
+Allow students to select a course for the Social Science University Core that most interests them.
+:::
+
+Eliminating CCE 231 will necessitate that our students take a course that meets
+the social science requirements for the University Core. This also helps accomodate students who may have 
+taken a GE class before entering the major. While any appropriate course could fill
+this box, we might recommended a list to students including: 
+
+  - [GEOG 110]()  Landscapes of Disaster 
+  - [EXSC 221]() Science of Wellness 
+  - [ANTHR 101]()  Social/Cultural Anthropology 
+  - [ECON 110]()  Econ Principles & Problems 
+  - [HONRS 226]() Unexpect Connect: Soc Sci-Ltrs 
+  - [PSYCH 111]() Psychological Science 
+  - [SOC 112]() Current Social Problems 
+
+
+## Life Science Elective
+::: {.callout-note}
+## Proposed Change
+Require students to select a life science University Core course from a list. 
+:::
+ABET requires classes in “calculus-based physics, college-level chemistry, and
+one additional area of basic science.” Historically, this requirement has been
+met with PHYSCS 121, CHEM 105, and GEOL 330. But the University Core requires a
+course in life sciences, which we represent on the present flowchart with
+Biology 100. We propose to use this course as the “one additional area of basic
+science” required by ABET, thus allowing students to take a second course in
+Physics or Chemistry later in the program. Courses that could be used to fill
+this requirement include: 
+
+  - [BIO 100]() - Principles of Biology 
+  - [CELL 120]() - Science of Biology 
+  - [HONRS 220]() - Unexpect Connect: Biol-Letters 
+  - [MMBIO 121]() - Gen Biology: Health & Disease 
+  - [MMBIO 221]() - General Microbiology 
+  - [PWS 150]() - Environmental Biology 
+
+
+## Advanced Science Elective
+::: {.callout-note}
+## Proposed Change
+Require an advanced science class from a list; GEOL 330 is no longer required for all students. 
+:::
+

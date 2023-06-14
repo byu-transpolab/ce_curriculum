@@ -1,0 +1,27 @@
+# Sophomore Year {#sec-sophomore}
+
+The learning outcomes for this year are for students to: 
+
+  1. Apply advanced physics and mathematics to solve problems in solid and fluid mechanics. 
+  2. Apply basic computational techniques – including writing functions, reading complex datasets, and optimization – to solve meaningful problems in all discipline areas of civil engineering. 
+  3. Identify which discipline breadth classes to take in the junior year. 
+
+
+## CE 232: Fluid Mechanics
+::: {.callout-note}
+## Proposed Change
+Convert CE 332 from a 300-level discipline area class into a 200-level mechanics class required for all students. 
+:::
+
+
+## CCE 270: Engineering Computation {#sec-ce270}
+::: {.callout-note}
+## Proposed Change
+Convert CCE 170 into a 200-level computation class with a higher level of computational tasks drawn from all discipline areas.
+:::
+
+
+## Math Core
+
+There is no proposed change here, other than we are electing to show the three-course math sequence on the flowchart,
+giving it primacy over the two-course sequence. Both sequences will remain acceptable in the new program.
