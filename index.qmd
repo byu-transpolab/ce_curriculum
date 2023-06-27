@@ -1,6 +1,6 @@
 # Motivation {.unnumbered}
 
-Built environments that are well designed, constructed, and maintained improve the quality of life for God’s children on His earth. These built environments face threats and challenges that change rapidly: natural hazards, climate change, population growth, and global economic and political conditions all at times threaten human happiness and well-being. The mission of the Civil Engineering program at Brigham Young University should be to develop students of faith, intellect, and character who are capable of meeting and solving these challenges now and in the future. 
+Built environments that are well designed, constructed, and maintained improve the quality of life for God’s children on His earth. These built environments face threats and challenges that change rapidly: natural hazards, climate change, population growth, and global economic and political conditions all at times threaten human happiness and well-being. The mission of the Civil Engineering program at Brigham Young University should be to develop students of faith, intellect, and character who are capable of meeting and solving challenges to built environments now and in the future. 
  
 BYU’s civil engineering program has historically succeeded in generating high-quality, well-trained graduates. But as the field of civil engineering changes, the skills students need to address these challenges change as well. Further, graduating seniors have regularly commented on the inflexibility and inefficiency of our current program. This document describes a proposal for several changes to the requirements for a Bachelor of Science degree in Civil Engineering that we hope will better prepare our students with broad and highly flexible degree program. 
  
@@ -14,11 +14,13 @@ The specific proposals we include in the remainder of this document are made wit
 
   - Increase personal agency and personal investment for students in the program by offering meaningful course options at several places. 
 
+  - Allow students to complete either a broad civil engineering degree or develop targeted skills based on their interests and desires.
+
   - Decrease the number of credit hours required for a degree to approximately 120 credit hours. 
 
   - Develop a framework that allows for new discipline area courses (e.g., data science, construction engineering) to seamlessly enter the program in response to changing industry needs. 
 
-A flowchart with the proposed changes is given in @fig-proposal. This proposal reduces the required credit hours to 122 from 128. The remainder of this document presents the changes by class year, along with a set of informal learning outcomes for each year. @sec-stories presents a series of “student stories” describing how a variety of students might approach a civil engineering degree in the new program. 
+A flowchart with the proposed changes is given in @fig-proposal. This proposal reduces the required credit hours to 122 from 128. The remainder of this document presents the changes by class year, along with a set of informal learning outcomes for each year. @sec-stories presents a series of “student stories” describing how a variety of students might approach a civil engineering degree in the new program, complete with individual flowcharts. 
 
 ::: {#fig-proposal}
 {{< pdf flowcharts/Flowchart%20Proposal.pdf width=100% height=600 >}}
