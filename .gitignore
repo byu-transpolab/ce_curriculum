@@ -46,3 +46,7 @@ _book/site_libs/quarto-search/quarto-search.js
 .quarto/xref/e72dc617
 .quarto/xref/f9df70d0
 .quarto/xref/INDEX
+
+/.quarto/
+
+/.luarc.json
