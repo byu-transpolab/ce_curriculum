@@ -6,20 +6,29 @@ The learning outcomes for this year are for students to:
   3. Apply mathematics and basic physics to solve basic problems related to optimization and forces on static bodies. 
   4. Obtain meaningful business and engineering skills that could be useful in part-time research or internships. 
 
-## CCE 101: Sustainable Infrastructure 
+## CCE 101: Sustainable Infrastructure {#sec-sustainability}
 ::: {.callout-note}
 ## Proposed Change
-Create a new CCE 101 (3 credit hours) by combining learning objectives from CCE 101 (1), CCE 201 (2), and CCE 231 (3)
+Create a new CCE 101 (3 credit hours) by combining many learning outcomes from CCE 101 (1), CCE 201 (2), and CCE 231 (3)
 :::
 
-The existing CCE 101 course is designed to *tell* students about the different employment and study paths available to them as civil engineers and construction managers. We desire to make this a class that *shows* how designing and building civil infrastructure benefits society through interactive case studies and a lens of sustainability. Proposed learning outcomes include: 
+The existing CCE 101 course is designed to *tell* students about the different
+employment and study paths available to them as civil engineers and construction
+managers. We desire to make this a class that *shows* how designing and building
+civil infrastructure benefits society through interactive case studies and a
+lens of stewardship. Proposed learning outcomes include: 
 
   1. Describe how civil infrastructure and the built environment can foster (or inhibit) a sustainable society, including efforts to achieve United Nations Sustainable Development Goals. 
   2. Apply the principle of time value of money to identify financially sustainable infrastructure investment decisions. 
   3. Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts. ([ABET Student Outcome 4](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/#GC3))
   4. Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives. ([ABET Student Outcome 5](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2022-2023/#GC3))
 
-We intend that this course will qualify for the Global and Cultural Awareness University Core requirement, or as an Explorations: Science and Technology in the proposed GE.  
+We intend that this course will qualify for the Global and Cultural Awareness
+University Core requirement (focused on the global challenge of sustainability),
+or as an Explorations: Science and Technology in the proposed GE.  We also
+expect this change to enhance recruiting of undecided majors across campus and
+begin generating interest in civil engineering and construction disciplines
+students will explore later.
 
 ## CCE 117 / 118 Engineering Software and Measurements 
 ::: {.callout-note}
@@ -27,7 +36,7 @@ We intend that this course will qualify for the Global and Cultural Awareness Un
 Proposed Change: Create a set of new courses introducing students to engineering software and measurements. Eliminate CCE 112 (3 credit hours) and CCE 214 (2 credit hours)
 :::
 
-The list of practical skills that engineering students need is always expanding, with new software replacing formerly essential tools (the shift from manual drafting to CAD) or creating new ones (GIS). Rather than adding and shifting course requirements as tools become available – and retaining legacy classes that have been superseded – we propose a two-course series where individual sections focus on different software and measurement techniques. 
+The list of practical skills that engineering students need is always expanding, with new software replacing formerly essential tools (e.g. the shift from manual drafting to CAD) or creating new ones (GIS). Rather than adding and shifting course requirements as tools become available – and retaining legacy classes that have been superseded – we propose a two-course series where individual sections focus on different software and measurement techniques. 
 
 CCE 117 is proposed as a two-credit hour software class. We anticipate a section focused on GIS and another on CAD, but others may be possible. Specific learning outcomes will vary by software, but all sections will require that students will: 
 
