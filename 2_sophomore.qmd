@@ -12,7 +12,29 @@ The learning outcomes for this year are for students to:
 ## Proposed Change
 Convert CE 332 from a 300-level discipline area class into a 200-level mechanics class required for all students. 
 :::
+Fluid mechanics is an important prerequisite for many junior-level classes,
+including geotechnical engineering and environmental engineering. As a result,
+many engineering programs across the country require a fluid mechanics course
+prior to proceeding with discipline-specific classes. Moving fluid mechanics to
+a required sophomore-level class (1) naturally fills the void left by removing
+dynamics from our curriculum, (2) demonstrates to students that modeling of
+physical behavior is not limited to structural phenomena (3) better prepares
+students to take junior-level courses, and (4) enables students to explore
+topics in water engineering (e.g. hydrology, hydraulics) earlier in their
+program of study. Learning outcomes for this class will largely remain
+consistent with those of CE 332, which are 
 
+  - Setup, perform, evaluate, and report on elementary hydraulic experiments; 
+  - Use basic calculations to describe static pressures and forces in fluids; 
+  - Understand and apply conservation of mass, momentum, and energy in flow analysis problems; 
+  - Apply concepts of drag and lift to solve introductory problems of forces and dynamics; 
+  - Employ and evaluate between standard methods to analyze and design pressure pipe systems; 
+  - Understand basic elements of pump and turbine flow to analyze and select appropriate fluid pumps for basic pumping situations. 
+
+It is also anticipated that this change will breathe additional hope into
+students that currently may feel bogged down by two full years of solid
+mechanics prior to getting into alternative subject areas. This change is
+intended to improve retention for these students. 
 
 ## CCE 270: Engineering Computation {#sec-ce270}
 ::: {.callout-note}
@@ -20,6 +42,29 @@ Convert CE 332 from a 300-level discipline area class into a 200-level mechanics
 Convert CCE 170 into a 200-level computation class with a higher level of computational tasks drawn from all discipline areas.
 :::
 
+To better expose students to the various disciplines of civil engineering, as
+well as to build on the momentum established in CCE 101, CCE 170 will be
+converted back into a sophomore-level class. Here, students will be asked to use
+computers and computation to solve discipline-specific problems. The intent of
+this class is to help students gain necessary computing skills while seeing they
+can solve interesting problems in a variety of discipline areas using computing.
+Based on this experience, students will be better prepared to select
+junior-level courses that best meet their interests. Learning outcomes for the
+class include 
+
+  - Approach problems in mulitple civil engineering discipline areas from a
+  programmatic mindset
+  - Apply intermediate spreadsheet skills to solve civil engineering problems in a
+  variety of disciplines
+  - Create custom code in a modern programming language to automate redundant or
+  otherwise intractable engineering processes 
+  - Collaborate with a team to develop and present software of value to
+  stakeholders 
+
+Recall that CCE 170 was originally taught as a sophomore-level class, but was
+moved to a freshman-level class to accommodate basic training in Excel necessary
+for some 200-level classes. Many of these prerequisite and basic skills in Excel will
+now be covered briefly in CCE 101. 
 
 ## Math Core
 
