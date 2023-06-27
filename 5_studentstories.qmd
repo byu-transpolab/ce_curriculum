@@ -15,11 +15,7 @@ Sarah came to BYU not knowing what her major would be, but she knew she wanted t
 
 **Senior Year** While taking the design classes in GIS software and hydraulics, Sarah is recruited for a senior research project and associated study abroad. She builds hydrologic hazards mapping software for communities in Nepal as a culminating design experience. 
  
-::: {#fig-sarah}
-{{< pdf flowcharts/Flowchart%20Proposal%20-%20Sarah.pdf width=100% height=600 >}}
-
-Sarah's proposed program flowchart (right-click to download PDF).
-:::
+![Sarah's proposed program flowchart.](flowcharts/FlowchartProposal-Sarah.png){#fig-sarah}
 
 ## John (UDOT Engineer) 
 John chose to major in Civil Engineering because his uncle is a civil engineer with the state highway department. He is not planning on an MS degree; his goal is to get into practical classes as quickly as possible so that he can get an internship with UDOT leading to their rotational engineering program. 
@@ -33,11 +29,7 @@ John chose to major in Civil Engineering because his uncle is a civil engineer w
 **Senior Year** Hearing more about all the things a UDOT rotational engineer works on, John fills out his four remaining CE electives with an eclectic mix of traffic engineering, hydraulic engineering, and reinforced bridge design. And after putting off his GE Civ classes, John realizes that he kind of liked his literature teacher back in high school and decides to do a series in English and Comparative Literature, which double-counts as his GE Letters requirement. His team’s capstone project involves a drainage plan for a new pedestrian trail in Springville, and he’s glad he took the extra class in Hydrology the year before. 
 
 
-::: {#fig-john}
-{{< pdf flowcharts/Flowchart%20Proposal%20-%20John.pdf width=100% height=600 >}}
-
-John's proposed program flowchart (right-click to download PDF).
-:::
+![John's proposed program flowchart.](flowcharts/FlowchartProposal-John.png){#fig-john}
 
 ## Emma (University Honors, M.Arch Preparation) 
 Emma is a high-achieving student who wants to improve the design and ecological impact of built spaces. She hopes for placement in a top Master of Architecture program, and believes that completing a structural engineering-focused BS in CE would be good preparation. Emma also hopes that completing University Honors will help distinguish her application. The choices she makes for her curriculum include: 
@@ -50,11 +42,7 @@ Emma is a high-achieving student who wants to improve the design and ecological 
 
 **Senior Year** Now prepared with substantive breadth in CE and other courses of her choosing, Emma digs into her senior year with a difficult set of technical electives and begins working with Dr. Judd on her honors thesis, looking at self-correcting floor mechanisms in steel frame buildings. She wishes she could go back in time and take the class in structural sensors for her CCE 118 option, but it’s not too much of a lift to figure out how to attach and calibrate the sensors and associated equipment during her summer research assistantship. She uses this effort as her culminating design experience, and the ability to focus on this complex design problem helps to generate a publication-quality research article. 
 
-::: {#fig-emma}
-{{< pdf flowcharts/Flowchart%20Proposal%20-%20Emma.pdf width=100% height=600 >}}
-
-Emma's proposed program flowchart (right-click to download PDF).
-:::
+![Emma's proposed program flowchart.](flowcharts/FlowchartProposal-Emma.png){#fig-emma}
 
 ## New University GE
 The proposed curriculum will map well onto the [proposed University GE](https://ge.byu.edu/00000181-4ef4-d9e0-a789-7ef6b1980001/ge-proposal-v-8-8-pdf). All of
@@ -68,8 +56,4 @@ The new foreign language requirement will increase the proposed credit hours
 from 122 to 125 (121 to 124 with the two course Math sequence); we could elect
 to remove a technical elective if and when the new GE begins. 
 
-::: {#fig-newge}
-{{< pdf flowcharts/Flowchart%20Proposal%20-%20New%20GE.pdf width=100% height=600 >}}
-
-Proposed program flowchart under the new University GE (right-click to download PDF).
-:::
+![Proposed program flowchart under the new University GE.](flowcharts/FlowchartProposal-NewGE.png){#fig-newge}

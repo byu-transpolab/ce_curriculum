@@ -1,52 +1,10 @@
-_book/1_freshman.html
-_book/2_sophomore.html
-_book/3_junior.html
-_book/4_senior.html
-_book/5_studentstories.html
-_book/Civil-Engineering-Curriculum.pdf
-_book/index.html
-_book/references.html
-_book/search.json
-_book/flowcharts/Flowchart Proposal - Emma.pdf
-_book/flowcharts/Flowchart Proposal - John.pdf
-_book/flowcharts/Flowchart Proposal - New GE.pdf
-_book/flowcharts/Flowchart Proposal - Sarah.pdf
-_book/flowcharts/Flowchart Proposal.pdf
-_book/site_libs/bootstrap/bootstrap-icons.css
-_book/site_libs/bootstrap/bootstrap-icons.woff
-_book/site_libs/bootstrap/bootstrap.min.css
-_book/site_libs/bootstrap/bootstrap.min.js
-_book/site_libs/clipboard/clipboard.min.js
-_book/site_libs/quarto-html/anchor.min.js
-_book/site_libs/quarto-html/popper.min.js
-_book/site_libs/quarto-html/quarto-syntax-highlighting.css
-_book/site_libs/quarto-html/quarto.js
-_book/site_libs/quarto-html/tippy.css
-_book/site_libs/quarto-html/tippy.umd.min.js
-_book/site_libs/quarto-nav/headroom.min.js
-_book/site_libs/quarto-nav/quarto-nav.js
-_book/site_libs/quarto-search/autocomplete.umd.js
-_book/site_libs/quarto-search/fuse.min.js
-_book/site_libs/quarto-search/quarto-search.js
-.quarto/cites/index.json
-.quarto/idx/1_freshman.qmd.json
-.quarto/idx/2_sophomore.qmd.json
-.quarto/idx/3_junior.qmd.json
-.quarto/idx/4_senior.qmd.json
-.quarto/idx/5_studentstories.qmd.json
-.quarto/idx/index.qmd.json
-.quarto/idx/references.qmd.json
-.quarto/xref/7f7e7405
-.quarto/xref/40ee62f6
-.quarto/xref/69ec8d02
-.quarto/xref/89e7eaaf
-.quarto/xref/908f3401
-.quarto/xref/838548bf
-.quarto/xref/cdef31ac
-.quarto/xref/e72dc617
-.quarto/xref/f9df70d0
-.quarto/xref/INDEX
-
+_book/
 /.quarto/
-
 /.luarc.json
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc

@@ -22,8 +22,4 @@ The specific proposals we include in the remainder of this document are made wit
 
 A flowchart with the proposed changes is given in @fig-proposal. This proposal reduces the required credit hours to 122 from 128. The remainder of this document presents the changes by class year, along with a set of informal learning outcomes for each year. @sec-stories presents a series of “student stories” describing how a variety of students might approach a civil engineering degree in the new program, complete with individual flowcharts. 
 
-::: {#fig-proposal}
-{{< pdf flowcharts/Flowchart%20Proposal.pdf width=100% height=600 >}}
-
-Proposed program flowchart (right-click to download PDF).
-:::
+![Proposed program flowchart (right-click to open larger in new tab).](flowcharts/FlowchartProposal.png){#fig-proposal}
