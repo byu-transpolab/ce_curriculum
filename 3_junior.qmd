@@ -1,8 +1,9 @@
 # Junior Year
 The learning outcomes for this year are for students to: 
 
-  1. Obtain a broad exposure to multiple disciplines of civil engineering. 
+  1. Obtain a broad competence in multiple disciplines of civil engineering. 
   1. Prepare for technical and design electives, as well as a Capstone experience. 
+
 
 ## CE Breadth Core {#sec-breadth}
 ::: {.callout-note}
@@ -10,8 +11,74 @@ The learning outcomes for this year are for students to:
 Require students to complete four of six discipline area classes, instead of all six courses. 
 :::
 
+Civil engineers must be trained to solve problems in multiple discipline areas.
+The ABET criteria for civil engineering programs states:
 
-## Social Science Elective
+>  The curriculum must prepare graduates to analyze and solve problems in at least four technical areas appropriate to civil engineering
+
+The [ASCE commentary](https://www.asce.org/-/media/asce-images-and-files/career-and-growth/educators/civil-engineering-program-commentary-eac.pdf) (p. 11) on this criterion 
+in part states:
+
+> In response to emerging societal needs, civil engineering programs may need to develop non-standard technical areas. These breadth areas should be supported by constituent and stakeholder feedback, and connected to the Program Educational Objectives.
+
+In our program, we have historically met this requirement with introductory discpline
+area classes at the 300-level. The requirement to take all courses is
+unnecessarily constraining to both the students and our program, however.
+
+First, students who investigate the civil engineering major because it houses a
+discipline they have interest in are often deterred by the abundance of
+seemingly irrelevant courses. For example, a student interested in urban
+transport or environmental mitigation might see two or three courses of
+relevance but several required courses in which they have little interest and
+elect to study Plant and Wildlife Science or Geography instead. 
+
+Second, as new discipline classes are proposed (e.g., construction engineering,
+engineering data science, etc.), they require us to reconsider anew 
+where they will fit into our program. This proposed changes sets the stage for
+sustainable flexibility in our core offerings as the disciplines of civil engineering
+evolve.
+
+We anticipate some growing pains and objections to this proposal. These objections are
+reasonable, but we hope we can address them in the following ways
+
+  - *How will students know that they don't want to do $X$ if they have never had a class in $X$?*
+    We intend for the proposed changes to CCE 101 (@sec-sustainability) will help students first see the purpose of each discipline
+    in improving the quality of life for God's children on His earth, and that improvements to CCE 270 (@sec-ce270) will give meaningful exposure
+    to questions and methods in all discipline areas, before students choose which junior core classes to pursue.
+  - *Won't students just take the courses that are easiest / the courses that their friends are taking?* This is a real possibility, but
+    we believe that students must be accountable for their own intellectual development.  We believe that the 
+    quality of course instruction will improve when the participating students
+    have invested their agency in selecting courses.
+  - *Can you call yourself a civil engineer if you haven't had a class in $X$?* BYU would
+    be far from the first university to not require specific discipline area classes in a 
+    civil engineering degree. At least [Georgia Tech](https://catalog.gatech.edu/programs/civil-engineering-standard-bs/), [Texas A&M](https://engineering.tamu.edu/civil/academics/degrees/undergraduate/bachelor-of-science-civil-engineering.html), and [UC Davis](https://catalog.ucdavis.edu/departments-programs-degrees/civil-environmental-engineering/civil-engineering-bs/#requirementstext) 
+    have degree programs without specific discipline area course requirements.
+  - *Will this have any ABET ramifications?* For civil engineering breadth, we are 
+    in good shape by requiring four discipline area classes. There is an additional
+    requirement that students "conduct experiments in at least two discipline areas." To
+    ensure that this requirement is met for all students, we will need to ask that at least 
+    four 300 level classes include an "experiment."
+  - *Will our students still pass the FE?* It is possible that depending on the courses students
+    select and the specific makeup of their exams, students may encounter more or fewer problems that
+    they are directly trained to solve. We anticipate that the FE review course will still be valuable.
+  - *Won't many of our students just want a well-rounded, all areas civil engineering degree?* The 
+    hope is that this proposal will allow students to choose for themselves what they would like to 
+    achieve in their education. Any 300-level courses beyond the four course breadth requirement 
+    would count as CCE technical electives, thus a student who wanted to take all discipline
+    area classes for additional FE preparation could still do so. (see the student story in @fig-john). 
+
+## CCE 331: Hydrology (Introduction to Water Resources)
+::: {.callout-note}
+## Proposed Change
+Convert CE 431: Hydrology into a 300-level junior core class.
+:::
+
+Moving fluid mechanics to a sophomore-level mechanics class leaves the water resources group
+without a clear discipline area introduction class. We believe that the existing CE 431 course works
+better as an introductory discipline area class than as a design elective, and moving it
+to the 300 level is appropriate.
+
+## Social Science Elective {#sec-socialsci}
 ::: {.callout-note}
 ## Proposed Change
 Allow students to select a course for the Social Science University Core that most interests them.
@@ -19,43 +86,56 @@ Allow students to select a course for the Social Science University Core that mo
 
 Eliminating CCE 231 will necessitate that our students take a course that meets
 the social science requirements for the University Core. This also helps accomodate students who may have 
-taken a GE class before entering the major. While any appropriate course could fill
-this box, we might recommended a list to students including: 
+taken an appropriate GE class before entering the major. While any appropriate course could fill
+this box, we might informally recommended a list to students including: 
 
-  - [GEOG 110]()  Landscapes of Disaster 
-  - [EXSC 221]() Science of Wellness 
-  - [ANTHR 101]()  Social/Cultural Anthropology 
-  - [ECON 110]()  Econ Principles & Problems 
-  - [HONRS 226]() Unexpect Connect: Soc Sci-Ltrs 
-  - [PSYCH 111]() Psychological Science 
-  - [SOC 112]() Current Social Problems 
+  - [GEOG 110](https://catalog.byu.edu/courses/11202-001)  Landscapes of Disaster: An Introduction to Natural Hazards
+  - [EXSC 221](https://catalog.byu.edu/courses/12452-000) Science of Wellness 
+  - [ANTHR 101](https://catalog.byu.edu/courses/00300-007)  Social/Cultural Anthropology 
+  - [ECON 110](https://catalog.byu.edu/courses/01567-001)  Econ Principles & Problems 
+  - [HONRS 226](https://catalog.byu.edu/courses/13637-000) Unexpected Connections: Soc Sci-Ltrs 
+  - [PSYCH 111](https://catalog.byu.edu/courses/04804-015) Psychological Science 
+  - [SOC 112](https://catalog.byu.edu/courses/05145-008) Current Social Problems 
 
 
-## Life Science Elective
+## Life Science Elective {#sec-lifesci}
 ::: {.callout-note}
 ## Proposed Change
-Require students to select a life science University Core course from a list. 
+Require students to select a biological science University Core course from a list. 
 :::
 ABET requires classes in “calculus-based physics, college-level chemistry, and
 one additional area of basic science.” Historically, this requirement has been
 met with PHYSCS 121, CHEM 105, and GEOL 330. But the University Core requires a
-course in life sciences, which we represent on the present flowchart with
+course in biological science, which we represent on the present flowchart with
 Biology 100. We propose to use this course as the “one additional area of basic
 science” required by ABET, thus allowing students to take a second course in
-Physics or Chemistry later in the program. Courses that could be used to fill
+Physics or Chemistry later in the program (see @sec-advancedsci). Courses that could be used to fill
 this requirement include: 
 
-  - [BIO 100]() - Principles of Biology 
-  - [CELL 120]() - Science of Biology 
-  - [HONRS 220]() - Unexpect Connect: Biol-Letters 
-  - [MMBIO 121]() - Gen Biology: Health & Disease 
-  - [MMBIO 221]() - General Microbiology 
-  - [PWS 150]() - Environmental Biology 
+  - [BIO 100](https://catalog.byu.edu/courses/00099-018) - Principles of Biology 
+  - [CELL 120](https://catalog.byu.edu/courses/09617-005) - Science of Biology 
+  - [HONRS 220](https://catalog.byu.edu/courses/12423-001) - Unexpected Connections: Biol-Letters 
+  - [MMBIO 121](https://catalog.byu.edu/courses/12571-000) - Gen Biology: Health & Disease 
+  - [PWS 150](https://catalog.byu.edu/courses/09388-001) - Environmental Biology 
 
 
-## Advanced Science Elective
+## Advanced Math or Science Elective {#sec-advancedsci}
 ::: {.callout-note}
 ## Proposed Change
 Require an advanced science class from a list; GEOL 330 is no longer required for all students. 
 :::
 
+Many civil engineering students benefit from GEOL 330, but we believe that some students might
+elect to take a different advanced science course. This list might include:
+
+  - [PHSCS 123](https://catalog.byu.edu/courses/04555-007) - Intro to Waves, Optics, and Thermodynamics
+  - [PHSCS 137](https://catalog.byu.edu/courses/04546-009) - Energy, Climate, and the Environment
+  - [PHSCS 220](https://catalog.byu.edu/courses/04541-014) - Electricity and Magnetism
+  - [CHEM 285](https://catalog.byu.edu/courses/11429-000) - Introductory Bio-organic Chemistry
+  - [CHEM 351](https://catalog.byu.edu/courses/01031-022) - Organic Chemistry 1
+  - [GEOL 330](https://catalog.byu.edu/courses/02320-011) - Engineering Geology
+  - [MATH 290](https://catalog.byu.edu/courses/03605-008) - Fundamentals of Mathematics
+  - [MATH 355](https://catalog.byu.edu/courses/07426-000) - Graph Theory
+  - [STAT 230](https://catalog.byu.edu/courses/11839-001) - Statistical Modeling 1
+
+These classes would also count for up to one CCE technical elective.
