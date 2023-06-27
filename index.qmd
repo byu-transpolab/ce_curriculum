@@ -4,7 +4,7 @@ Built environments that are well designed, constructed, and maintained improve t
  
 BYU’s civil engineering program has historically succeeded in generating high-quality, well-trained graduates. But as the field of civil engineering changes, the skills students need to address these challenges change as well. Further, graduating seniors have regularly commented on the inflexibility and inefficiency of our current program. This document describes a proposal for several changes to the requirements for a Bachelor of Science degree in Civil Engineering that we hope will better prepare our students with broad and highly flexible degree program. 
  
-In creating this proposal, the Undergraduate Curriculum Committee was deeply impressed by these two paragraphs from the Undergraduate – Depth section of Aims of a BYU Education: 
+In creating this proposal, the Undergraduate Curriculum Committee was deeply impressed by these two paragraphs from the Undergraduate – Depth section of [Aims of a BYU Education](https://aims.byu.edu/aims-of-a-byu-education): 
 
 > Depth does not result merely from taking many courses in a field. Indeed, excessive course coverage requirements may discourage rather than enhance depth. Depth comes when students realize "the effect of rigorous, coherent, and progressively more sophisticated study." Depth helps students distinguish between what is fundamental and what is only peripheral; it requires focus, provides intense concentration, and encourages a "lean and taut" degree that has a "meaningful core" and a purposefully designed structure (Memorandum to the Faculty No. 13). In addition to describing carefully structured academic majors, this description applies to well-designed BYU courses of all kinds.  
 

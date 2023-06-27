@@ -13,7 +13,6 @@ book:
     - 3_junior.qmd
     - 4_senior.qmd
     - 5_studentstories.qmd
-    - references.qmd
 
 bibliography: references.bib
 
