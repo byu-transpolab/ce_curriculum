@@ -6,13 +6,29 @@
 Develop CE 471 into a 3-credit hour course that counts as an Advanced Written and Oral Communication GE. Eliminates WRTG 316 (3)
 :::
 
-Students currently take WRTG 316 Technical Writing to fulfil the [Advanced Written and Oral Communication AWOC](https://ge.byu.edu/00000173-e9b7-dc88-a5fb-fdff6ad60000/advanced-written-and-oral-communication) University Core requirement. While the instructors are well trained in writing pedagogy, they are not engineers, they are not consistent each semester, and they are trying to meet the needs of diverse academic departments. Student feedback over the years suggests that while some aspects of the course are valuable (such as writing methods), the instructors and learning activities do not relate well to their own disciplines, defeating many of the AWOC learning outcomes. 
+Students currently take WRTG 316 Technical Writing to fulfil the 
+[Advanced Written and Oral Communication AWOC](https://ge.byu.edu/00000173-e9b7-dc88-a5fb-fdff6ad60000/advanced-written-and-oral-communication)
+University Core requirement. While the instructors are well trained in writing
+pedagogy, they are not engineers, they are not consistent each semester, and
+they are trying to meet the needs of diverse academic departments. Student
+feedback over the years suggests that while some aspects of the course are
+valuable (such as writing methods), the instructors and learning activities do
+not relate well to their own disciplines, defeating many of the AWOC learning
+outcomes. 
  
-We propose to bring AWOC into the CE program as part of the Capstone experience. The first Capstone semester would increase to 3 credits to accommodate the change. The AWOC learning activities would be specific to Capstone projects or senior thesis (see @sec-thesis): proposal writing, oral presentations, literature reviews, resume preparation, interview skills, peer reviews, and so on. BYU’s Advanced Writing Center will support the writing pedagogy portions of the course which our faculty are not well trained to do; our own faculty will handle the technical portions. This teaching balance will better meet the intent of the AWOC requirement. 
+We propose to bring AWOC into the CE program as part of the Capstone experience.
+This is something that many programs on campus have done, with the aid and 
+assistance of the English department.
+The first Capstone semester would increase to 3 credits to accommodate the
+change. The AWOC learning activities would be specific to Capstone projects or
+senior thesis (see @sec-thesis): proposal writing, oral presentations,
+literature reviews, resume preparation, interview skills, peer reviews, and so
+on. We recommend hiring an adjunct instructor with a technical writing background
+and an English degree to teach the writing portions of the course and 
+aid the the capstone director. The capstone director will also have to participate in
+some English department training activities.
 
-## CE 472: Capstone 2 {#sec-capstone2}
-
-## CE 499R: Senior Thesis {#sec-thesis}
+## HONRS 499R / CE 499R: Honors or Senior Thesis {#sec-thesis}
 ::: {.callout-note}
 ## Proposed Change
 Allow students completing senior theses (honors theses or mentored research
@@ -30,11 +46,14 @@ expressed that their alternative experience was more meaningful.
 At BYU, where undergraduate research is so highly valued, we ought to offer it
 as a pathway to fulfilling this requirement. A senior thesis option can run
 parallel to Capstone 2. Logistically, we would establish a 3-credit CE 499R
-Senior Project course for such students. Early in the Capstone 1 course, a
-senior thesis student would seek approval from the undergraduate coordinator,
+Senior Project course for such students (there is already a HONRS 499R). 
+Early in the Capstone 1 course, a
+senior thesis student would petition the undergraduate coordinator. 
 demonstrating that they have a mentor and an appropriate project that can be
-publication-ready by the end of the second semester. Throughout the second
-semester (CE 499R), the student would develop the project and prepare the final
-deliverables. The student’s work would be evaluated by a three-member committee
+publication-ready by the end of the second semester. Upon approval, this student would be 
+excused from a capstone project group. Throughout the second
+semester, the student would develop the project and prepare the final
+deliverables. The student’s work will be evaluated by a three-member committee
 consisting of the undergraduate coordinator (or honors coordinator for honors students),
-the mentor, and one other faculty member. 
+the mentor, and one other faculty member to ensure that it is appropriate as a
+culminating design experience.
