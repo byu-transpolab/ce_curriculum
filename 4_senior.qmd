@@ -18,7 +18,7 @@ outcomes.
  
 We propose to bring AWOC into the CE program as part of the Capstone experience.
 This is something that many programs on campus have done, with the aid and 
-assistance of the English department.
+encouragement of the English department, and there is an application process already in place.
 The first Capstone semester would increase to 3 credits to accommodate the
 change. The AWOC learning activities would be specific to Capstone projects or
 senior thesis (see @sec-thesis): proposal writing, oral presentations,

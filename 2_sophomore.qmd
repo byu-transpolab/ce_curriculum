@@ -20,7 +20,7 @@ a required sophomore-level class (1) naturally fills the void left by removing
 dynamics from our curriculum, (2) demonstrates to students that modeling of
 physical behavior is not limited to structural phenomena (3) better prepares
 students to take junior-level courses, and (4) enables students to explore
-topics in water engineering (e.g. hydrology, hydraulics) earlier in their
+topics in water engineering and soils engineering earlier in their
 program of study. Learning outcomes for this class will largely remain
 consistent with those of CE 332, which are 
 
