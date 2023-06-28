@@ -27,14 +27,17 @@ unnecessarily constraining to both the students and our program, however.
 
 First, students who investigate the civil engineering major because it houses a
 discipline they have interest in are often deterred by the abundance of
-seemingly irrelevant courses. For example, a student interested in urban
-transport or environmental mitigation might see two or three courses of
-relevance but several required courses in which they have little interest and
-elect to study Plant and Wildlife Science or Geography instead. 
+seemingly irrelevant courses. For example, students interested in urban
+transport or environmental mitigation look at our existing program and have the
+impression that it is a structural engineering degree with two or three elective
+courses relevant to their interests. These students --- often women and minorities --- have 
+frequently left or considered leaving our major to study mathematics,
+geology, geography, or plant and wildlife science instead of civil engineering. 
+We believe that our discipline is poorer for losing their perspective.
 
 Second, as new discipline classes are proposed (e.g., construction engineering,
-engineering data science, etc.), they require us to reconsider anew 
-where they will fit into our program. This proposed changes sets the stage for
+engineering data science, etc.), they require our faculty to reconsider anew 
+where they will fit into our program. This proposed change sets the stage for
 sustainable flexibility in our core offerings as the disciplines of civil engineering
 evolve.
 
@@ -65,7 +68,7 @@ reasonable, but we hope we can address them in the following ways
     hope is that this proposal will allow students to choose for themselves what they would like to 
     achieve in their education. Any 300-level courses beyond the four course breadth requirement 
     would count as CCE technical electives, thus a student who wanted to take all discipline
-    area classes for additional FE preparation could still do so. (see the student story in @fig-john). 
+    area classes for additional FE or career preparation could still do so. (see the student story in @fig-john). 
 
 ## CCE 331: Hydrology (Introduction to Water Resources)
 ::: {.callout-note}

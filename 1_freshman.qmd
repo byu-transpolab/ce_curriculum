@@ -16,7 +16,15 @@ The existing CCE 101 course is designed to *tell* students about the different
 employment and study paths available to them as civil engineers and construction
 managers. We desire to make this a class that *shows* how designing and building
 civil infrastructure benefits society through interactive case studies and a
-lens of stewardship. Proposed learning outcomes include: 
+lens of stewardship. 
+
+The objective of this course is not to bring in all the learning outcomes of all
+three courses it replaces. Rather, we hope to create a targeted, "lean and taut"
+course that looks at global challenges to human prosperity and happiness,
+potential solutions to these challenges using built environments, and the responsibility
+of trained Latter-day Saints to find and implement solutions to these
+challenges. We hope that this class will set a tone for all the subjects
+students will encounter through their programs.  Proposed learning outcomes include: 
 
   1. Describe how civil infrastructure and the built environment can foster (or inhibit) a sustainable society, including efforts to achieve United Nations Sustainable Development Goals. 
   2. Apply the principle of time value of money to identify financially sustainable infrastructure investment decisions. 
@@ -29,6 +37,7 @@ or as an Explorations: Science and Technology in the proposed GE.  We also
 expect this change to enhance recruiting of undecided majors across campus and
 begin generating interest in civil engineering and construction disciplines
 students will explore later.
+
 
 ## CCE 117 / 118 Engineering Software and Measurements 
 ::: {.callout-note}
