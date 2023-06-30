@@ -8,11 +8,19 @@ The learning outcomes for this year are for students to:
 ## CE Breadth Core {#sec-breadth}
 ::: {.callout-note}
 ## Proposed Change
-Require students to complete four of six discipline area classes, instead of all six courses. 
+Require students to complete four of six discipline area classes, instead of all six courses. In other words, students
+will complete 12 credit hours from the following courses:
+
+  - CCE 304 / CCE 306: Materials (1.5/1.5)
+  - CE 321: Structural Analysis (3)
+  - CE 331: Hydrology (3)
+  - CE 341: Soils (3)
+  - CE 351: Environmental Engineering (3)
+  - CE 361: Transportation Engineering (3)
 :::
 
 Civil engineers must be trained to solve problems in multiple discipline areas.
-The ABET criteria for civil engineering programs states:
+The [ABET criteria for civil engineering programs](https://www.abet.org/wp-content/uploads/2022/01/2022-23-EAC-Criteria.pdf) (p. 24) states:
 
 >  The curriculum must prepare graduates to analyze and solve problems in at least four technical areas appropriate to civil engineering
 
@@ -45,7 +53,7 @@ We anticipate some growing pains and objections to this proposal. These objectio
 reasonable, but we hope we can address them in the following ways
 
   - *How will students know that they don't want to do $X$ if they have never had a class in $X$?*
-    We intend for the proposed changes to CCE 101 (@sec-sustainability) will help students first see the purpose of each discipline
+    We intend that the proposed changes to CCE 101 (@sec-sustainability) will help students see the purpose of each discipline
     in improving the quality of life for God's children on His earth, and that improvements to CCE 270 (@sec-ce270) will give meaningful exposure
     to questions and methods in all discipline areas, before students choose which junior core classes to pursue.
   - *Won't students just take the courses that are easiest / the courses that their friends are taking?* This is a real possibility, but
@@ -125,11 +133,11 @@ this requirement include:
 ## Advanced Math or Science Elective {#sec-advancedsci}
 ::: {.callout-note}
 ## Proposed Change
-Require an advanced science class from a list; GEOL 330 is no longer required for all students. 
+Require an advanced math or science class from a list; GEOL 330 is no longer required for all students. 
 :::
 
 Many civil engineering students benefit from GEOL 330, but we believe that some students might
-elect to take a different advanced science course. This list might include:
+elect to take a different advanced math or science course if given a choice. This list might include:
 
   - [PHSCS 123](https://catalog.byu.edu/courses/04555-007) - Intro to Waves, Optics, and Thermodynamics
   - [PHSCS 137](https://catalog.byu.edu/courses/04546-009) - Energy, Climate, and the Environment
@@ -141,4 +149,4 @@ elect to take a different advanced science course. This list might include:
   - [MATH 355](https://catalog.byu.edu/courses/07426-000) - Graph Theory
   - [STAT 230](https://catalog.byu.edu/courses/11839-001) - Statistical Modeling 1
 
-These classes would also count for up to one CCE technical elective.
+Additional courses from this list would also count for up to one CCE technical elective.

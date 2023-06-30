@@ -1,5 +1,11 @@
 # Senior Year
 
+The learning outcomes for this year are for students to:
+
+  - Prepare for future employment or graduate research opportunities by developing technical 
+  depth in civil engineering disciplines of their choice.
+  - Complete a culminating design experience.
+
 ## CE 471: Capstone 1 {#sec-capstone1}
 ::: {.callout-note}
 ## Proposed Change
@@ -36,9 +42,11 @@ projects with substantive deliverables) to count their work as a culminating
 design experience.
 :::
 
-ABET requires a “culminating major engineering design experience” incorporating
-“engineering standards and multiple constraints” and based on “earlier
-coursework.” We have satisfied this requirement with Capstone in the past, but
+[ABET requires](https://www.abet.org/wp-content/uploads/2022/01/2022-23-EAC-Criteria.pdf) (p. 9)
+
+> a culminating major engineering design experience that 1) incorporates appropriate engineering standards and multiple constraints, and 2) is based on the knowledge and skills acquired in earlier course work.
+
+We have satisfied this requirement with Capstone in the past, but
 alternative projects such as honors theses and mentored research may also
 qualify. Past students who completed both Capstone and an alternative experience
 expressed that their alternative experience was more meaningful.  
@@ -48,7 +56,7 @@ as a pathway to fulfilling this requirement. A senior thesis option can run
 parallel to Capstone 2. Logistically, we would establish a 3-credit CE 499R
 Senior Project course for such students (there is already a HONRS 499R). 
 Early in the Capstone 1 course, a
-senior thesis student would petition the undergraduate coordinator. 
+senior thesis student would petition the undergraduate coordinator,
 demonstrating that they have a mentor and an appropriate project that can be
 publication-ready by the end of the second semester. Upon approval, this student would be 
 excused from a capstone project group. Throughout the second
