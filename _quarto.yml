@@ -12,6 +12,7 @@ book:
     - 2_sophomore.qmd
     - 3_junior.qmd
     - 4_senior.qmd
+  appendices:
     - 5_studentstories.qmd
 
 bibliography: references.bib
