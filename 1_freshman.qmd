@@ -6,15 +6,29 @@ The learning outcomes for this year are for students to:
   3. Apply mathematics and basic physics to solve basic problems related to optimization and forces on static bodies. 
   4. Obtain meaningful business and engineering skills that could be useful in part-time research or internships. 
 
-## CCE 101: Sustainable Infrastructure {#sec-sustainability}
+## CCE 101: Intro to CCE {#sec-introcce}
 ::: {.callout-note}
 ## Proposed Change
-Create a new CCE 101 (3 credit hours) by combining many learning outcomes from CCE 101 (1), CCE 201 (2), and CCE 231 (3)
+Offer the existing 1-credit hour CCE 101 class, but do not require it.
 :::
-
 The existing CCE 101 course is designed to *tell* students about the different
 employment and study paths available to them as civil engineers and construction
-managers. We desire to make this a class that *shows* how designing and building
+managers. This can be a useful role to students who are considering multiple majors, 
+and it has practical purposes for some students. However, we feel that this class can 
+be made optional as its learning outcomes are not critical for all students. 
+
+Requiring this class also creates issues for some transfer students, as courses like 
+this are not typical at other schools. If we allow it to be optional, then we do 
+not have to justify individual transfer exceptions for our ABET accreditation.
+
+## CCE 102: Sustainable Infrastructure {#sec-sustainability}
+::: {.callout-note}
+## Proposed Change
+Create CCE 102 (3 credit hours) by combining many learning outcomes from CCE 101 (1), CCE 201 (2), and CCE 231 (3)
+:::
+
+Given the limitations discussed in @sec-introcce, we desire to make an introductory
+ class that *shows* how designing and building
 civil infrastructure benefits society through interactive case studies and a
 lens of stewardship. 
 
@@ -61,4 +75,4 @@ CCE 118 is proposed as a one-credit hour engineering measurements class. We anti
   3. Use modern techniques to record, store, and disseminate engineering data. 
   4. Construct basic visualizations of engineering data. 
 
-We recognize that many construction management students are likely to derive more benefit from BIM than GIS. If the construction management program elects to retain its three-credit hour CCE 113 BIM class, we would allow CE students to take that class as a substitute for CCE 117. 
+We recognize that many construction management students are likely to derive more benefit from BIM than GIS, and that the 3-hour CCE 113 class meets many critical CFM learning objectives for plan reading, etc. We anticipate allowing CE students to take that class as a substitute for CCE 117. 
