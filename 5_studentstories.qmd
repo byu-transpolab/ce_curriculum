@@ -4,6 +4,13 @@ This section presents a set of stories that reflect the variety of experiences p
 students in our program. They are at least partially derived from student exit interviews. 
 Additionally, we present how the new GE proposal will impact the curriculum.
 
+::: {.callout-warning}
+## Some updates needed
+These specific stories do not incorporate the new UNIV 100 BYU Foundations
+course and refer to CCE 102 Sustainable Infrastructure as CCE 101. They are still valuable 
+for illustrating the motivations and impacts of the proposed changes on our students.
+:::
+
 ## Sarah (Environmental Hydrology)
 Sarah came to BYU not knowing what her major would be, but she knew she wanted to help the environment. She passed AP Calculus in high school and played the cello in her high school orchestra. She’s not sure about grad school, but could be persuaded. Her program of study is shown in @fig-sarah.
 
