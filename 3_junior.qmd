@@ -90,6 +90,15 @@ better as an introductory discipline area class than as a design elective, and m
 to the 300 level is appropriate.
 
 ## Social Science Elective {#sec-socialsci}
+
+::: {.callout-important}
+## University Foundations
+The new UNIV 100: BYU Foundations course will replace one GE class of the student's choice
+between Arts, Letters, Social Science, and Civilizations 1 or 2. We recommend not specifying
+a particular social science elective list for CE students and allow them to choose which GE course they
+would like to substitute.
+:::
+
 ::: {.callout-note}
 ## Proposed Change
 Allow students to select a course for the Social Science University Core that most interests them.
