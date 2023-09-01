@@ -56,7 +56,7 @@ students will explore later.
 ## CCE 117 / 118 Engineering Software and Measurements 
 ::: {.callout-note}
 ## Proposed Change
-Proposed Change: Create a set of new courses introducing students to engineering software and measurements. Eliminate CCE 112 (3 credit hours) and CCE 214 (2 credit hours)
+Create a set of new courses introducing students to engineering software and measurements. Eliminate CCE 112 (3 credit hours) and CCE 214 (2 credit hours)
 :::
 
 The list of practical skills that engineering students need is always expanding, with new software replacing formerly essential tools (e.g. the shift from manual drafting to CAD) or creating new ones (GIS). Rather than adding and shifting course requirements as tools become available – and retaining legacy classes that have been superseded – we propose a two-course series where individual sections focus on different software and measurement techniques. 
