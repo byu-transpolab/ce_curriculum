@@ -53,7 +53,7 @@ We anticipate some growing pains and objections to this proposal. These objectio
 reasonable, but we hope we can address them in the following ways
 
   - *How will students know that they don't want to do $X$ if they have never had a class in $X$?*
-    We intend that the proposed changes to CCE 101 (@sec-sustainability) will help students see the purpose of each discipline
+    We intend that the proposed changes to CCE 102 (@sec-sustainability) will help students see the purpose of each discipline
     in improving the quality of life for God's children on His earth, and that improvements to CCE 270 (@sec-ce270) will give meaningful exposure
     to questions and methods in all discipline areas, before students choose which junior core classes to pursue.
   - *Won't students just take the courses that are easiest / the courses that their friends are taking?* This is a real possibility, but

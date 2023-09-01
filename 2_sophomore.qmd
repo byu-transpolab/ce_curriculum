@@ -43,7 +43,7 @@ Convert CCE 170 into a 200-level computation class with a higher level of comput
 :::
 
 To better expose students to the various disciplines of civil engineering, as
-well as to build on the momentum established in CCE 101, CCE 170 will be
+well as to build on the momentum established in CCE 102 (see @sec-sustainability), CCE 170 will be
 converted back into a sophomore-level class. Here, students will be asked to use
 computers and computation to solve discipline-specific problems. The intent of
 this class is to help students gain necessary computing skills while seeing they
@@ -64,7 +64,7 @@ class include
 Recall that CCE 170 was originally taught as a sophomore-level class, but was
 moved to a freshman-level class to accommodate basic training in Excel necessary
 for some 200-level classes. Many of these prerequisite and basic skills in Excel will
-now be covered briefly in CCE 101. 
+now be covered briefly in CCE 102, in the context of engineering economics. 
 
 ## Math Core
 
